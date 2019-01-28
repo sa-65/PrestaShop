@@ -21,6 +21,7 @@ public class HomePage {
 
 
 
+    //locators
     @FindBy(xpath = "(//img[@class='replace-2x img-responsive'])[2]")
     public WebElement itemNotOnSale;
 
